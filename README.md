@@ -5,6 +5,7 @@ It's like the script for **"prompt from file or textbox"**, but it allows select
 ---
 
 ## 🚀 Example
+![sample](https://i.imgur.com/Zj2S7bG.jpeg)
 
 **Selected LoRAs:** LoRA 1, LoRA 2  
 **Prompts in the script:** Line 1, Line 2  
@@ -26,27 +27,27 @@ Images generated with:
 
 2. **In the Lora Directory section**, choose the folder of LoRAs you want to use:
 
-   ![Lora Directory](https://imgur.com/a/IK9ZPVH)
+   ![Lora Directory](https://i.imgur.com/pxz4Nib.png)
 
 3. **In the Select Lora section**, choose the LoRAs you want to use:
 
-   ![Select Lora](https://imgur.com/a/COpuVfm)
+   ![Select Lora](https://i.imgur.com/SdQNE0W.png)
 
 4. **In the Prompts section** (one per line), enter the prompts to be used (in addition to the prompt in the original positive prompt cell):
 
-   ![Prompts Section](https://imgur.com/a/fbfDkYu)
+   ![Prompts Section](https://i.imgur.com/4B61e9B.png)
 
 5. **Choose where you want to place the tags** from the script and the LoRA (the script also places prompts saved in the LoRA's metadata):
 
-   ![Tag Placement](https://imgur.com/a/5NVeLwp)
+   ![Tag Placement](https://i.imgur.com/TuC2pua.png)
 
 6. **Choose between random or fixed seed**:
 
-   ![Seed Selection](https://imgur.com/a/pW5ijGa)
+   ![Seed Selection](https://i.imgur.com/qKo7gHD.png)
 
 7. **You can also upload prompts from a txt file**:
 
-   ![Upload Prompts](https://imgur.com/a/dBkNDLz)
+   ![Upload Prompts](https://i.imgur.com/mGUTQts.png)
 
 ---
 
