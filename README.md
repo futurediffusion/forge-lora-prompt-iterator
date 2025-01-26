@@ -22,7 +22,7 @@ Images generated with:
 
 1. **Place the script** in your script folder in Forge (it might work in A111 and REFORGE) and look for it in your scripts as **"apply on every lora"**.
 
-   ![Script Placement](https://imgur.com/a/VmPgt1u)
+   ![Script Placement](https://imgur.com/a/VmPgt1u.png)
 
 2. **In the Lora Directory section**, choose the folder of LoRAs you want to use:
 
